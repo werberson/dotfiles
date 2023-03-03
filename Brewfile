@@ -13,6 +13,7 @@ brew "sheldon"
 brew "wtfutil"
 brew "neofetch"
 
+brew "vault"
 brew "terraform"
 brew "awscli"
 brew "gh"
