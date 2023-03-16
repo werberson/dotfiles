@@ -20,6 +20,7 @@ brew "gh"
 brew "helm"
 brew "jq"
 brew "k9s"
+brew "k6"
 
 brew "golang-migrate"
 brew "teleport"
@@ -33,3 +34,5 @@ cask "1password/tap/1password-cli"
 cask "notion"
 cask "spotify"
 cask "discord"
+cask "microsoft-office"
+
