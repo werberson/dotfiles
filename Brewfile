@@ -36,3 +36,5 @@ cask "spotify"
 cask "discord"
 cask "microsoft-office"
 
+cask "obs"
+cask "blackhole-16ch"
