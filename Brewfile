@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask-fonts"
 tap "birdayz/kaf"
+tap "koekeishiya/formulae"
 
 brew "bash"
 brew "asdf"
@@ -26,6 +27,9 @@ brew "awscli"
 brew "helm"
 brew "gnu-sed"
 
+brew "yabai"
+brew "skhd"
+
 cask "kindle"
 cask "cheatsheet"
 
@@ -34,6 +38,7 @@ cask "font-jetbrains-mono-nerd-font"
 cask "rectangle"
 cask "postman"
 cask "iterm2"
+cask "alacritty"
 # cask "1password"
 cask "1password-cli"
 cask "notion"
@@ -41,6 +46,8 @@ cask "obsidian"
 cask "microsoft-office"
 cask "cron"
 cask "google-drive"
+cask "logseq"
+cask "barrier"
 
 # Chat
 cask "slack"
@@ -69,3 +76,4 @@ mas "JSONPeep", id: 1458969831
 mas "OneTab", id: 1540160809
 mas "1Password for Safari", id: 1569813296
 mas "Grammarly for Safari", id: 1462114288
+mas "Edison Mail - Email", id: 1489591003
